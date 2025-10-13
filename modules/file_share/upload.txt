@@ -1,0 +1,1 @@
+This is a sample uploaded file for Lab07 - Task 3 (Azure File Share).
