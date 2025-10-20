@@ -1,0 +1,1 @@
+This is a sample blob file uploaded by Terraform (Lab07 - Task 2 - module blob_storage).
